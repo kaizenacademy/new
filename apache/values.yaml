@@ -2,8 +2,8 @@
 replicaCount: 1
 
 image:
-  repository: karabalta75/test
-  tag: "0.0.2"
+  repository: kaizenacademy/apache
+  tag: "0.0.1"
 name: apache
 namespace: qa
 
